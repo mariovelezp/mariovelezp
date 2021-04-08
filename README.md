@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariovelezp
-- 👀 I’m interested in JavaScript, Node.js, Web FrontEnd/BackEnd
+- 👀 I’m interested in JavaScript, Node.js, Web FrontEnd/BackEnd,Linux
 - 🌱 I’m currently learning Framework Next.js, Nest.js, React.js
 - 💞️ I am looking to collaborate on frontend and backend projects using Node.js
 - 📫 mariovelezp@gmail.com
